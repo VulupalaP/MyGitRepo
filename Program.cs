@@ -12,7 +12,7 @@ namespace ConsoleAppGit
         {
 
             //This is a test commit
-            Console.WriteLine("Hello World");
+            Console.WriteLine("My first commit");
             Console.ReadLine();
 
         }
